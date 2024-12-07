@@ -1,0 +1,14 @@
+RUN INSTRUCTIONS
+If live-server is not installed, run
+
+npm install --save-dev live-server
+
+OPEN FOLDER IN VSCode
+
+run 
+
+live-server
+
+in VSCode terminal
+
+SELECT home.html
